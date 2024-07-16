@@ -17,6 +17,15 @@
 
 After both Servo connections to STM32 board power supply of 5v 1A is provided and as per program the bottom servo motor will start rotating from 0°  to 180° and simultaneously vertically connected servo motor starts rotating from 0° to 120° which replicats the basic movement of 2 - DOF (degree of freedom) robotic arm.
 
+## **Features-**
+
+1. Efficient and effective working due to use of ARM controller
+2. Simple in design with using wooden sticks as mechanical structure
+3. 2 degree of freedom
+4. 0° to 180° ratation of bottom servo motor
+5. 0° to 120° rotation of vetical servo motor
+6. 5v and 1A of Power requirements
+
 <table align="center">
   <tr>
     <th><h2><b>Pros</b></h2></th>
@@ -43,3 +52,12 @@ After both Servo connections to STM32 board power supply of 5v 1A is provided an
     <td>Not capable of holding objects and has only 2 degree of freedom</td>
   </tr>
 </table>
+
+## **Key Skills-**
+
+- ➤ Robotic Arm  design
+- ➤ C language
+- ➤ Handson on STMCube software
+- ➤ Handson on STM32 Nucleo Board
+- ➤ Troubleshooting and Debugging
+- ➤ Circuit designing and simulating tool- Easyeda, Proteus
