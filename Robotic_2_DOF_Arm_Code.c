@@ -16,8 +16,6 @@ void set_servo_angle(TIM_HandleTypeDef *htim, uint32_t Channel, uint16_t angle);
 int main(void)
 {
   
-
- 
   HAL_Init();
 
   SystemClock_Config();
